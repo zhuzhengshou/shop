@@ -18,7 +18,6 @@
       'nav-header':NavHeader,
       'nav-footer':NavFooter,
       'nav-bread' :NavBread,
-      'model':Modal
     },
     methods:{  
     },
